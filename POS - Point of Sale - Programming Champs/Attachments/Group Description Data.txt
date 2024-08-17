@@ -1,0 +1,9 @@
+Project Title: "POS - Point of Sale - Inventory Management System"
+
+Group Members:
+
+2022-ag-8568    =>    Zain Ashraf
+2022-ag-8583    =>    Zubair Aslam
+2022-ag-8612    =>    Faizan Khawar
+2022-ag-8598    =>    Asad Ali
+2022-ag-8629    =>    Muhammad Salman
